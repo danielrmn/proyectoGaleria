@@ -1,2 +1,2 @@
-# carritoDeCompras-Proyecto1
+# Galeria de fotos
 proyecto de tzuzul bootcamp
